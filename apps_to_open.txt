@@ -1,0 +1,7 @@
+# List the full file paths of applications you want to open, one per line.
+C:\Program Files (x86)\SmartPTT\Client\Client.exe
+C:\Program Files\exacqVision\Client\edvrclient
+C:\Program Files\Google\Chrome\Application\chrome.exe
+C:\Program Files\Zoom\bin\Zoom.exe
+C:\Users\jcarelock\Downloads\Tylers resources\GSOC Files\Symmetry-RDS-client-prod-win
+C:\Program Files\Slack\Slack.exe
